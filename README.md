@@ -28,4 +28,4 @@ This project implements the Longstaff-Schwartz Monte Carlo method to price Ameri
 The calculated option price and computation time will be printed to the console.
 
 ## How it Works
-The program simulates multiple stock price paths and uses a backward induction algorithm. At each time step, it decides whether to exercise the option or continue holding it based on a polynomial regression of the discounted future cash flows on the current stock price for in-the-money paths.
+The program simulates multiple stock price paths and uses a backward induction algorithm. At each time step, it decides whether to exercise the option or continue holding it based on a polynomial regression of the discounted future cash flows on the current stock price for in-the-money paths."# LSM-American-Put-Pricer" 
