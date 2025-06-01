@@ -1,0 +1,14 @@
+{
+    "LSM_parameters": {
+        "S": 36,
+        "K": 40,
+        "T": 1,
+        "r": 0.06,
+        "sig": 0.2,
+        "N": 100,
+        "M": 500000,
+        "degree": 3,
+        "seed": null,
+        "antithetic": true
+    }
+}
